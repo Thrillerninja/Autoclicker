@@ -1,2 +1,2 @@
 # Autoclicker
-Simple Autoklicker with custom CPS
+Simple Autoclicker with custom CPS
